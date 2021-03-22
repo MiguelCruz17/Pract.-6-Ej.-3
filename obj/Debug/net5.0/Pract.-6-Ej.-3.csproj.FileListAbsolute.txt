@@ -1,0 +1,16 @@
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\bin\Debug\net5.0\Pract.-6-Ej.-3.exe
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\bin\Debug\net5.0\Pract.-6-Ej.-3.deps.json
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\bin\Debug\net5.0\Pract.-6-Ej.-3.runtimeconfig.json
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\bin\Debug\net5.0\Pract.-6-Ej.-3.runtimeconfig.dev.json
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\bin\Debug\net5.0\Pract.-6-Ej.-3.dll
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\bin\Debug\net5.0\ref\Pract.-6-Ej.-3.dll
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\bin\Debug\net5.0\Pract.-6-Ej.-3.pdb
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\obj\Debug\net5.0\Pract.-6-Ej.-3.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\obj\Debug\net5.0\Pract.-6-Ej.-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\obj\Debug\net5.0\Pract.-6-Ej.-3.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\obj\Debug\net5.0\Pract.-6-Ej.-3.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\obj\Debug\net5.0\Pract.-6-Ej.-3.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\obj\Debug\net5.0\Pract.-6-Ej.-3.dll
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\obj\Debug\net5.0\ref\Pract.-6-Ej.-3.dll
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\obj\Debug\net5.0\Pract.-6-Ej.-3.pdb
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Visual Studio Code (Prácticas)\P6 EJ.3\Pract.-6-Ej.-3\obj\Debug\net5.0\Pract.-6-Ej.-3.genruntimeconfig.cache
